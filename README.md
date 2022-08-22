@@ -1,6 +1,6 @@
 # Analog Clock 
 
-# Deployed on Heroku https://analogclockrepo.herokuapp.com/
+# Deployed on Heroku https://analogclock1.herokuapp.com/
 
 # Screenshots
 
